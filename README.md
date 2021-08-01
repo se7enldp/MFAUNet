@@ -1,0 +1,2 @@
+# MFAUNet
+cardiac ventircle segmentation
